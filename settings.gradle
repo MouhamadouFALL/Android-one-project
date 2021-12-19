@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "put-one-project"
 include ':app'
+include ':management-user'
